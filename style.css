@@ -25,6 +25,24 @@ th.plant
    border:0px solid transparent;
    display: inline-table
 }
+th.transplant
+{
+    background-color:rgb(255, 67, 101) ;
+    border: none;
+    color:black;
+    padding: 15px 32px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 30px;
+    outline: none;
+    transition: transform .2s;
+    margin-left: auto;
+   margin-right: auto;
+   border:0px solid transparent;
+   display: inline-table
+}
 tr
 {
     text-align: center;
